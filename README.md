@@ -7,7 +7,7 @@
 <br> 
 
 # Overview
-Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML and CSS, <strong>ensuring accurate responsiveness</strong> so that it looks great on various devices. This project demonstrates my proficiency in front-end development by replicating Netflix's renowned interface.
+Welcome to MoveMate, your user-friendly transportation solution! MoveMate is a comprehensive platform created with HTML, CSS, and Bootstrap, designed for <strong>seamless mobility planning</strong>. Its responsive design ensures optimal functionality across devices, providing an effortless experience for users.
 
 <br>
 
@@ -17,39 +17,32 @@ Welcome to my Netflix Homepage Clone! I recreated Netflix's homepage using HTML 
 <div style="text-align: center;">
   <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML icon" height="90px" title="HTML">
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS icon" height="90px" title="CSS">
-    &nbsp;
+    &nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap icon" height="60px" title="Bootstrap">
+    &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git icon" height="75px" title="Git">
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub icon" height="75px" title="GitHub">
-    &nbsp;
+    &nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="vs code icon" height="60px" title="Microsoft Visual Studio">
+    &nbsp;&nbsp;
   </div>
 </div>
 
 <br>
 
 # Features
-The replicated homepage includes:
+The project includes:
 
 <ul>
-    <li>
-        <strong>Video Playback Display:</strong> An image of a TV showcasing video playback similar to Netflix's interface.
-    </li>
-    <li>
-        <strong>Navigation Bar:</strong> Recreated to mirror the navigation layout of Netflix for seamless browsing.
-    </li>
-    <li>
-        <strong>FAQ Section:</strong> Implemented with hover effect for color change to enhance user interactivity.
-    </li>
-    <li>
-        <strong>Interactive Buttons:</strong> Designed with color transition on hover, ensuring a dynamic user experience.
-    </li>
-    <li>
-        <strong>Overall Replica:</strong> The entire Netflix interface was replicated using only HTML and CSS, striving to capture the essence and visual appeal of the original platform.
-    </li>
+    <li><strong>Header with Company Logo:</strong> Incorporating essential navigation elements for seamless browsing.</li>
+    <li><strong>Hero Section:</strong> Featuring captivating images or promotional content to engage visitors.</li>
+    <li><strong>Features Section:</strong> Detailing the distinctive functionalities or standout aspects of the project.</li>
+    <li><strong>Footer:</strong> Showcasing the company logo along with crucial navigation links for enhanced user experience.</li>
 </ul>
+
 
 
 <br>
