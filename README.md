@@ -1,4 +1,5 @@
-<img src="./movemate-banner.jpg" alt="movemate banner" >
+<img src="https://i.postimg.cc/59XmPJh1/movemate-banner.jpg" alt="movemate banner">
+
 
 # Netflix Homepage Replication Project🍿
 
