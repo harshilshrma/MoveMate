@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-<img src="" alt="movemate banner" >
-=======
 <img src="https://i.postimg.cc/59XmPJh1/movemate-banner.jpg" alt="movemate banner">
-
->>>>>>> 0b00efd98e5689d43e670e8687ecff981c3c7b3a
 
 # MoveMate 
 
