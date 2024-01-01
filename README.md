@@ -5,9 +5,9 @@
 
 >>>>>>> 0b00efd98e5689d43e670e8687ecff981c3c7b3a
 
-# Netflix Homepage Replication Project🍿
+# MoveMate 
 
-[<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/227_Netflix_logo-512.png" width="50" height="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/Netflix-Clone/) <span style="color:blue">_(Click on the logo to view this project)_</span>
+[<img src="https://i.postimg.cc/8C3xY4zz/2.jpg" width="50" style="border-radius: 10px;" target="_main">](https://harshilshrma.github.io/MoveMate/) <span style="color:blue"> _&nbsp;(Click on the logo to view this project)_</span>
 
 <br> 
 
