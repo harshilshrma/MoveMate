@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAF4o8j-2OI/pV3WzI0AHZYYRFXfVzyAIw/view?utm_content=DAF4o8j-2OI&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="netflix banner" >
+<img src="https://www.canva.com/design/DAF4o8j-2OI/pV3WzI0AHZYYRFXfVzyAIw/view?utm_content=DAF4o8j-2OI&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="movemate banner" >
 
 # Netflix Homepage Replication Project🍿
 
