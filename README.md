@@ -68,7 +68,7 @@ Key takeaways from this project:
 
 # Conclusion
 
-Thank you for exploring Movemate, a project illustrating my journey in front-end development, focusing on HTML, CSS, and the utilization of Bootstrap. Crafting responsive designs using Bootstrap has been a cornerstone of this project. 
+Thank you for exploring <strong>MoveMate</strong>, a project illustrating my journey in front-end development, focusing on HTML, CSS, and the utilization of Bootstrap. Crafting responsive designs using Bootstrap has been a cornerstone of this project. 
 
 I hope this project serves as an inspiration for fellow enthusiasts in the web development community. Your interest and exploration mean a lot, and I'm thrilled to continue this journey, diving deeper into the world of web development.
 
